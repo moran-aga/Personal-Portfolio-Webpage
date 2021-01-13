@@ -1,9 +1,24 @@
+
 #navbar {
-    background-color: red;
+    background-color: palevioletred;
     display: flex;
     justify-content: flex-end;
     position: fixed;
     top: 0;
     left: 0;
     width:100%;
+    padding-bottom: 28px;
+    padding-top: 28px;
 }
+.navlink {
+    font-size: 30px;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    font-weight: bold;
+    color: white;
+    margin-left: 12px;
+    text-decoration: none;
+}
+
+a:hover {
+    color:black;
+  }
