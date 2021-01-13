@@ -1,2 +1,33 @@
 # Auto detect text files and perform LF normalization
 * text=auto
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Morans Portfolio</title>
+    <link rel="stylesheet" href="style.css">
+</head>
+<body>
+    <script defer src="https://cdn.freecodecamp.org/testable-projects-fcc/v1/bundle.js"></script>
+
+    <nav id="navbar">
+        <a class="navlink" href="#welcome-section">About Me</a> 
+        <a class="navlink" href="#projects">projects</a> 
+        <a class="navlink" href="#pagebottom">keep in touch</a> 
+     </nav>
+
+    <section id="welcome-section">
+        <h1>Hi, My name is Moran</h1>
+    </section>
+
+    <section id="projects">
+        <dev class="project-tile">NUM1</dev>
+        <a class="project-tile" href="https://codepen.io/MORANAGA/pen/KKgxydE" target="_blank">a link to my first page</a>
+    </section>
+
+    <section id="pagebottom">
+        <a id="profile-link" href="https://github.com/moran-aga" target="_blank">My github profile</a>
+    </section>
+</body>
+</html>

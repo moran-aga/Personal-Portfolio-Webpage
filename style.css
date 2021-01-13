@@ -1,0 +1,9 @@
+#navbar {
+    background-color: red;
+    display: flex;
+    justify-content: flex-end;
+    position: fixed;
+    top: 0;
+    left: 0;
+    width:100%;
+}
